@@ -53,4 +53,3 @@ plot.pc(ntraits = 1, theta = 20, phi = 5,
 plot.pc(ntraits = 5, theta = 20, phi = 5, 
         colorpal = diverge_hcl(12, c = 100, l = c(50, 90), power = 1))
 ```
-```
